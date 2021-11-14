@@ -25,7 +25,6 @@ Transmetteur 4G pour centrale HONEYWELL Flex
  ![image](https://user-images.githubusercontent.com/57842257/141687645-be053fe3-7756-4b69-ae5b-1fec8430213d.png)
 
 
-
 4 - Programmation de la centrale Honeywell Flex
 
     Menu Paramètres 53.1 / 53.2 / 53.3 / 53.5
@@ -35,6 +34,17 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 5 - Programmation Arduino ATMEGA2560
 
+    Modifier les 2 numéros de téléphone et codes d'accés associés
+    
+![image](https://user-images.githubusercontent.com/57842257/141687988-0e79ecff-63a3-4b0c-be2e-f365b6090ea8.png)
+
+
 6 - Câblage & Essais
+
+    Chaque borne du module de sorties A071 est à relier à une borne portant le même numéro au Shield (T1 = 1 Shield / T2 = 2 Shield ...)
+    
+    
+    
+
 
 
