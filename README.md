@@ -59,7 +59,7 @@ Transmetteur 4G pour centrale HONEYWELL Flex
         Shield Borne P = Borne Zone 7 sur la carte mère centrale Flex
         Shield Borne T = Borne Zone 8 sur la carte mère centrale Flex
         
-         Menu Paramètres 52.x.x
+        Menu Paramètres 52.x.x
         
  ![image](https://user-images.githubusercontent.com/57842257/141688324-756b3b22-df61-4497-862c-ab82ee2b9c91.png)
  
