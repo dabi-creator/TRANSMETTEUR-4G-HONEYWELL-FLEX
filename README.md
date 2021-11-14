@@ -14,9 +14,9 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 1 - Réalisation du Shield Arduino / SIM7600 / A071-00-01
 
-2 - Impression 3D du support pour le Shield
+2 - Impression 3D du support pour le Shield (à installer à l'emplacement RF Portal en haut à droite)
 
-3 - Installation de la carte d'extension de sortie A071-00-01 dans la centrale Honeywell Flex
+3 - Installation et déclaration de la carte d'extension de sortie A071-00-01 dans la centrale Honeywell Flex
 
 4 - Programmation de la centrale Honeywell Flex
 
