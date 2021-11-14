@@ -25,7 +25,8 @@ Transmetteur 4G pour centrale HONEYWELL Flex
     Menu Paramètre 51.50 - Set to 1 = Enabled
     
  ![image](https://user-images.githubusercontent.com/57842257/141687645-be053fe3-7756-4b69-ae5b-1fec8430213d.png)
-
+ 
+ ![image](https://user-images.githubusercontent.com/57842257/141688588-8f89a4fc-9fc9-49ec-b857-941ad92c1872.png)
 
 4 - Programmation de la centrale Honeywell Flex
 
