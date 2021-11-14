@@ -41,6 +41,20 @@ Transmetteur 4G pour centrale HONEYWELL Flex
     
 ![image](https://user-images.githubusercontent.com/57842257/141687988-0e79ecff-63a3-4b0c-be2e-f365b6090ea8.png)
 
+6 - Configuration de la carte SIM7600
+
+    Vitesse de tranfert à initialiser 
+    AT+IPREX=19200
+
+    Pour vérifier la configuration
+    AT+IPREX?
+    
+![image](https://user-images.githubusercontent.com/57842257/141689407-980ba255-a03b-4cf3-bc65-ee843ff39316.png)
+
+
+![image](https://user-images.githubusercontent.com/57842257/141689257-3392ef55-a25d-40b7-bd51-9b658ca89b49.png)
+
+
 
 6 - Câblage & Essais
 
