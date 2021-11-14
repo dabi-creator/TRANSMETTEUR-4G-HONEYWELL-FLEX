@@ -42,11 +42,12 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 ![image](https://user-images.githubusercontent.com/57842257/141687988-0e79ecff-63a3-4b0c-be2e-f365b6090ea8.png)
 
     Modifier le code PIN de la carte SIM
-    Ligne 121 envoyer_Commande_AT("AT+CPIN=1234", "+CPIN: READY", 2000);
+
+![image](https://user-images.githubusercontent.com/57842257/141689624-91821f64-74f8-4773-8435-851655b42f1e.png)
 
 6 - Configuration de la carte SIM7600
 
-    Vitesse de tranfert à initialiser 
+    A l'aide du logiciel SSCOM initialiser la vitesse de tranfert à 19200 
     AT+IPREX=19200
 
     Pour vérifier la configuration
