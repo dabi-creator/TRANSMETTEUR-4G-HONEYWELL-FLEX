@@ -18,6 +18,8 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 2 - Impression 3D du support pour le Shield (à enficher à l'emplacement RF Portal en haut à droite de la centrale - Antenne 4G à l'horizontale)
 
+![image](https://user-images.githubusercontent.com/57842257/141688253-6e281d73-d0ca-459d-a255-bd9a16e2dcf5.png)
+
 3 - Installation et déclaration de la carte d'extension de sortie A071-00-01 dans la centrale Honeywell Flex
 
     Menu Paramètre 51.50 - Set to 1 = Enabled
@@ -41,8 +43,29 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 6 - Câblage & Essais
 
-    Chaque borne du module de sorties A071 est à relier à une borne portant le même numéro au Shield (T1 = 1 Shield / T2 = 2 Shield ...)
-    
+    Les entrées :
+        Carte A071 - T1 = Shield Borne 1 => MES PARTIELLE
+        Carte A071 - T2 = Shield Borne 2 => MES TOTALE
+        Carte A071 - T3 = Shield Borne 3 => AUTOPROTECTION
+        Carte A071 - T4 = Shield Borne 4 => MHS
+        Carte A071 - T5 = Shield Borne 5 => DEFAUT SYSTEME
+        Carte A071 - T6 = Shield Borne 6 => DEFAUT SECTEUR
+        Carte A071 - T7 = Shield Borne 7 => INTRUSION
+        Carte A071 - T8 = Shield Borne 8 => INCENDIE
+        
+        Shield Borne G => GND 0V
+        Shield Borne +12 => +12V
+        
+        Shield Borne P = Borne Zone 7 sur la carte mère centrale Flex
+        Shield Borne T = Borne Zone 8 sur la carte mère centrale Flex
+        
+         Menu Paramètres 52.x.x
+        
+ ![image](https://user-images.githubusercontent.com/57842257/141688324-756b3b22-df61-4497-862c-ab82ee2b9c91.png)
+ 
+ ![image](https://user-images.githubusercontent.com/57842257/141688424-576c1e89-8f6b-4707-b142-981de36f6059.png)
+
+
     
     
 
