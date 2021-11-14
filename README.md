@@ -1,4 +1,4 @@
-# TRANSMETTEUR-4G-HONEYWELL-FLEX
+# TRANSMETTEUR-4G-HONEYWELL-FLEX - "En cours de TEST"
 Transmetteur 4G pour centrale HONEYWELL Flex
 
 # Matériels nécessaire :
