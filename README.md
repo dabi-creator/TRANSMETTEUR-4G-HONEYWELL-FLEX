@@ -12,7 +12,7 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 # Réalisation & Installation :
 
-1 - Réalisation du Shield Arduino / SIM7600 / A071-00-01
+1 - Réalisation du Shield Arduino / SIM7600 / A071-00-01 (Fabriquée chez JLCPCB pour moins de 10 € livraison comprise)
 
 ![image](https://user-images.githubusercontent.com/57842257/141687708-a3c436a0-fec5-4def-9851-39ef407e2c49.png)
 
