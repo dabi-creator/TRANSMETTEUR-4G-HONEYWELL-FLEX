@@ -18,7 +18,14 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 3 - Installation et déclaration de la carte d'extension de sortie A071-00-01 dans la centrale Honeywell Flex
 
+    Menu Paramètre 51.50 - Set to 1 = Enabled
+
 4 - Programmation de la centrale Honeywell Flex
+
+    Menu Paramètres 53.1 / 53.2 / 53.3 / 53.5
+
+![image](https://user-images.githubusercontent.com/57842257/141687429-884b2506-db3f-4f36-8aa9-9f176770c341.png)
+
 
 5 - Programmation Arduino ATMEGA2560
 
