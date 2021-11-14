@@ -16,7 +16,7 @@ Transmetteur 4G pour centrale HONEYWELL Flex
 
 ![image](https://user-images.githubusercontent.com/57842257/141687708-a3c436a0-fec5-4def-9851-39ef407e2c49.png)
 
-2 - Impression 3D du support pour le Shield (à installer à l'emplacement RF Portal en haut à droite)
+2 - Impression 3D du support pour le Shield (à enficher à l'emplacement RF Portal en haut à droite de la centrale - Antenne 4G à l'horizontale)
 
 3 - Installation et déclaration de la carte d'extension de sortie A071-00-01 dans la centrale Honeywell Flex
 
