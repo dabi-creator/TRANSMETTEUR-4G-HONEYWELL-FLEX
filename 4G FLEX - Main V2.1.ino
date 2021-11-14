@@ -2,6 +2,7 @@
 //*****************TRANSMETTEUR 4G à base SIM7600*******************
 // Controleur ATMEGA2560
 // Version V2.0 - 13/11/2021
+// XTA - Dabi_creator
 //******************************************************************
 
 #include <SoftwareSerial.h>
